@@ -9,3 +9,6 @@ seaborn==0.12.2
 tqdm==4.66.1
 transformers==4.32.0
 timm==0.9.5
+wandb==0.15.8
+optuna==3.3.0
+torch_optimizer==0.3.0

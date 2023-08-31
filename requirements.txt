@@ -12,3 +12,4 @@ timm==0.9.5
 wandb==0.15.8
 optuna==3.3.0
 torch_optimizer==0.3.0
+sktime==0.22.0

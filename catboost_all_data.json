@@ -1,0 +1,1 @@
+{"objective": "CrossEntropy", "colsample_bylevel": 0.09954372911099889, "depth": 12, "boosting_type": "Ordered", "bootstrap_type": "MVS"}

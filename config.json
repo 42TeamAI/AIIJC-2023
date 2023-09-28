@@ -1,0 +1,8 @@
+{
+  "test_path": "../test/",
+  "train_path": "../train/",
+  "train_gts": "../train/train_gts.csv",
+  "train_meta": "../train/train_meta.csv",
+  "test_meta": "../test/test_meta.csv",
+  "sample_submission": "sample_submission.csv"
+}

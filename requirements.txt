@@ -7,7 +7,7 @@ torchaudio==2.0.2
 torchvision==0.15.2
 seaborn==0.12.2
 tqdm==4.66.1
-transformers==4.32.0
+transformers==4.38.0
 timm==0.9.5
 wandb==0.15.8
 optuna==3.3.0

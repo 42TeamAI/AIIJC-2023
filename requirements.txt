@@ -6,7 +6,7 @@ torch==2.2.0
 torchaudio==2.0.2
 torchvision==0.15.2
 seaborn==0.12.2
-tqdm==4.66.1
+tqdm==4.66.3
 transformers==4.38.0
 timm==0.9.5
 wandb==0.15.8
